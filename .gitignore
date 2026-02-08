@@ -1,0 +1,28 @@
+# Data files
+*.csv
+*.csv.zip
+*.zip
+*.gz
+*.pkl
+*.pickle
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
+.venv/
+venv/
